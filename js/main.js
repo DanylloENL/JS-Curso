@@ -1,5 +1,6 @@
 var lista = ["maça", "pêra", "laranja"];
 console.log(lista[1]);
+lista.push("uva");
 
 //var nome = "Danyllo Luz";
 //var n1 = 5;
