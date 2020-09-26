@@ -1,6 +1,68 @@
 
+/*
+function clicou(){
+    document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>";
+    //console.log(ocument.getElementById("agradecimento"));
+    //alert("Obrigado por clicar");
+}
+*/
 
+/*
+function redirecionar(){
+    window.open("https://rocketseat.com.br/");
+    //window.location.href = "https://rocketseat.com.br/";
+}
+*/
 
+/*
+function trocar(elemento){
+    //document.getElementById("mousemove"). innerHTML = "Obrigado por passar o mouse";
+    elemento.innerHTML = "Obrigado por passar o mouse"
+    //alert("trocar texto");
+}
+*/
+
+/*
+function voltar(elemento){
+    //document.getElementById("mousemove"). innerHTML = "Passe o mouse aqui";
+    elemento.innerHTML = "Passe o mouse aqui"    
+}
+*/
+
+/*
+function load(){
+    alert("Página carregada");
+}
+*/
+
+/*
+function funcaoChange(elemento){
+    console.log(elemento.value)
+}
+*/
+
+/*
+function soma(n1, n2){
+    return n1 + n2;
+}
+
+var validar;
+function validaIdade(idade){
+    validar;
+    if (idade >= 18){
+        validar = true
+    }else{
+        validar = false
+    }
+    return validar;
+}
+
+var idade = prompt("Qual sua idade?");
+validaIdade(idade)
+console.log(validar);
+*/
+
+//alert(soma(5,10));
 
 
 /*
@@ -43,11 +105,11 @@ alert(frutas[1].nome);
 */
 
 
-/*
-var fruta = {nome: "maca", cor:"vermelha"}
-console.log(fruta.nome);
-alert(fruta.cor);
-*/
+//var fruta = {nome: "maca", cor:"vermelha"}
+//console.log(fruta.nome);
+//console.log(fruta.toString());
+//console.join(" - ");
+//alert(fruta.cor);
 
 
 //var lista = ["maça", "pêra", "laranja"];
